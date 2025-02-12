@@ -1,0 +1,18 @@
+# Archivos de compilación y dependencias
+target/
+*.class
+
+# Configuración específica del entorno
+*.env
+*.log
+
+# Configuración de IDEs
+/.idea/
+/.vscode/
+/*.iml
+
+# Archivos sensibles
+application.properties
+application.yml
+aws-key.pem
+
